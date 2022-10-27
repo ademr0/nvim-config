@@ -1,1 +1,1 @@
-return 'ayu'
+return 'gruvbox'

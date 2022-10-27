@@ -1,5 +1,5 @@
 return {
   ["github/copilot.vim"] = {},
-  ['ayu-theme/ayu-vim'] = {},
+  ['morhetz/gruvbox'] = {},
   ['dart-lang/dart-vim-plugin'] = {},
 }
